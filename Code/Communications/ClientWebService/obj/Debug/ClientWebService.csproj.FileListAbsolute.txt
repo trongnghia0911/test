@@ -1,0 +1,6 @@
+C:\Users\simble\Desktop\HK9\HTPT\Students\Code\Communications\ClientWebService\bin\Debug\ClientWebService.exe
+C:\Users\simble\Desktop\HK9\HTPT\Students\Code\Communications\ClientWebService\bin\Debug\ClientWebService.pdb
+C:\Users\simble\Desktop\HK9\HTPT\Students\Code\Communications\ClientWebService\obj\Debug\ClientWebService.csproj.AssemblyReference.cache
+C:\Users\simble\Desktop\HK9\HTPT\Students\Code\Communications\ClientWebService\obj\Debug\ClientWebService.csproj.CoreCompileInputs.cache
+C:\Users\simble\Desktop\HK9\HTPT\Students\Code\Communications\ClientWebService\obj\Debug\ClientWebService.exe
+C:\Users\simble\Desktop\HK9\HTPT\Students\Code\Communications\ClientWebService\obj\Debug\ClientWebService.pdb
